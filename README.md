@@ -17,15 +17,16 @@ It demonstrates how Excel can be used to transform data results into meaaniful i
 - Third Term Pass Rate
 - Hardest Subject
 - Best Performing Class By Average
-- Students at Risk
+- Number of Students at Risk
 
 ---
 ## Tools
-- Excel
-- Excel Formulas
+- Microsoft Excel
 - Excel PivotTable
 - Excel Charts
-- Slicers
+- KPIs
+- Interactive Slicers
+- Dashboard Design Technique
 
 ---
 ## Dashboard Preview
@@ -39,7 +40,8 @@ It demonstrates how Excel can be used to transform data results into meaaniful i
 
 ---
 ## Files In The Repository
--![Dashboard Screenshot](Dashboard.png)
+-[Excel Workbook](Results_OligbiPatience.xlsx)
+-[Dashboard Screenshot](Dashboard.png)
 - README.md
 
 ---
